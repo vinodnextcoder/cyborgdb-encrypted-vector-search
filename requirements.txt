@@ -1,0 +1,7 @@
+chromadb
+openai
+sentence-transformers
+vec2text
+python-dotenv
+numpy
+torch

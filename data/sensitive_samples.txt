@@ -1,0 +1,4 @@
+John Doe SSN 444-22-1122
+Patient diagnosed with HIV
+Salary of employee is $120,000
+Customer credit card: 4111 1111 1111 1111
